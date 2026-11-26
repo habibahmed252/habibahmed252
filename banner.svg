@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Habiba Ahmed, Data Analyst">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a0b2e"/><stop offset="0.55" stop-color="#6b1d5c"/><stop offset="1" stop-color="#d63b8f"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ff7ac0"/><stop offset="1" stop-color="#ffd1ea"/></linearGradient>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<g opacity="0.18" stroke="#ffffff" stroke-width="1">
+<path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+</g>
+<g fill="url(#bar)" opacity="0.9">
+<rect x="800" y="190" width="42" height="70" rx="6"/>
+<rect x="862" y="150" width="42" height="110" rx="6"/>
+<rect x="924" y="170" width="42" height="90" rx="6"/>
+<rect x="986" y="110" width="42" height="150" rx="6"/>
+<rect x="1048" y="70" width="42" height="190" rx="6"/>
+</g>
+<polyline points="821,175 883,135 945,155 1007,95 1069,55" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#ffffff"><circle cx="821" cy="175" r="6"/><circle cx="883" cy="135" r="6"/><circle cx="945" cy="155" r="6"/><circle cx="1007" cy="95" r="6"/><circle cx="1069" cy="55" r="6"/></g>
+<text x="70" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#ffffff">Habiba Ahmed</text>
+<text x="72" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#ffd1ea">Data Analyst</text>
+<text x="72" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#ffffff" opacity="0.9">Python  |  SQL  |  Power BI  |  Remote  |  Available immediately</text>
+</svg>
