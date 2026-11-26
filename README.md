@@ -11,19 +11,19 @@
 
 ## About me
 
-Entry-level **Data Analyst** from Minya, Egypt, finishing a B.Sc. in Artificial Intelligence (Data Analysis track) at Minia National University (expected 2027). I clean data, explore it, build Power BI dashboards, and train machine learning models with Python and SQL.
+I'm a **Data Analyst** who turns raw data into clear answers. I clean and explore data, build Power BI dashboards, and train machine learning models with Python and SQL. I have analyzed 135K+ pharmaceutical transactions, scraped and modeled 4,371 job postings, and built a churn model with 96% accuracy.
 
-**Available immediately. Open to remote work and relocation.**
+Based in Minya, Egypt. **Available immediately. Open to remote work and relocation.**
 
 ## Featured projects
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [**CreditLens: Credit Card Default Risk Analysis**](https://github.com/habibahmed252/CreditLens-Banking-Credit-Risk-Analytics) | EDA of 30,000 customers. Repayment behavior, not demographics, predicts default: customers 2 months late default at 69% vs 14%. | Python, Pandas, Seaborn |
-| [**Pharmaceutical Sales Performance Dashboard**](https://github.com/habibahmed252/Pharmaceutical-Sales-Performance-Dashboard) | Power BI dashboard on 135,668 transactions (EGP 108.91M in sales) comparing Retail, Store and Tender channels. | Power BI |
-| [**Smart Stick for the Blind (IoT team project)**](https://github.com/habibahmed252/Smart-Stick-for-the-Blind-IoT) | 11-person team. Detects obstacles within 20 cm with an HC-SR04 ultrasonic sensor and warns with a buzzer and LED. | Arduino, C/C++ |
+| [**WUZZUF Egypt Job Market Analysis**](https://github.com/habibahmed252/wuzzuf-egypt-job-market-analysis) | End-to-end ETL and analysis of the Egyptian job market: 4,380 postings scraped, cleaned to 4,371 jobs from 1,533 companies across 15 categories. Interactive Power BI dashboard on demand, skills, experience and geography. | Python, Selenium, Power Query, DAX, Power BI |
+| [**SafeSpace AI**](https://github.com/habibahmed252/Safe-Space-_Ai-model-for-mental-health-Text-analyzer-) | Bilingual NLP and machine learning app that analyzes how people express their feelings and predicts the most likely mental health category across seven classes, with an AI helper. Built for awareness, not diagnosis. | NLP, TF-IDF, XGBoost, Generative AI |
+| [**Python for Data Analysis: NumPy and Pandas**](https://github.com/habibahmed252/-Coursera-Data-Analysis-Progect-in-Python-Pandas-Numpy) | Hands-on data manipulation, cleaning, merging and aggregation, finished with a capstone: a bank client database built by merging profile and salary records. | Python, NumPy, Pandas |
 
-More projects: [BMW Global Sales Analysis](https://github.com/habibahmed252/BMW-Global-Sales-Analysis-2010-2024), [WUZZUF Egypt Job Market Analysis](https://github.com/habibahmed252/wuzzuf-egypt-job-market-analysis), [Telco Customer Churn Prediction](https://github.com/habibahmed252/Telco_Customer_Churn-Analysis-with-machine-learning-prediction-). See all of them on my [portfolio](https://habibahmed252.github.io/).
+More projects: [CreditLens Credit Risk Analysis](https://github.com/habibahmed252/CreditLens-Banking-Credit-Risk-Analytics), [Pharmaceutical Sales Dashboard](https://github.com/habibahmed252/Pharmaceutical-Sales-Performance-Dashboard), [Telco Customer Churn Prediction](https://github.com/habibahmed252/Telco_Customer_Churn-Analysis-with-machine-learning-prediction-), [BMW Global Sales Analysis](https://github.com/habibahmed252/BMW-Global-Sales-Analysis-2010-2024), [Smart Stick for the Blind (IoT)](https://github.com/habibahmed252/Smart-Stick-for-the-Blind-IoT). See all of them on my [portfolio](https://habibahmed252.github.io/).
 
 ## Skills
 
